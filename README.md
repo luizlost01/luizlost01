@@ -1,2 +1,2 @@
 - 👋 Hello, I'm Luizlost
-- I am a young developer and I am currently learning Python
+- I am a young developer and I am currently learning Javascript and Html
