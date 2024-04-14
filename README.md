@@ -1,2 +1,3 @@
 - 👋 Hello, I'm Luizlost
-- I am a young developer and I am currently learning Javascript and Html
+- I am 17y
+- Current Learning React
