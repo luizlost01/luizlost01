@@ -1,3 +1,3 @@
 - 👋 Hello, I'm Luizlost
-- I am 17y
-- Current Learning React
+- I am 18y
+- Current Learning Python
