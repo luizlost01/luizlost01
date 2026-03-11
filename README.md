@@ -24,7 +24,7 @@ Seeking improvement and knowledge in the following areas:
 <div align="left">
   <a href="https://github.com/luizlost01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizlost01&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlost01&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlost01&langs_count=3&theme=dracula&cache_seconds=10"/>
 </div>
 
 <div style="display: inline_block"><br>
