@@ -13,7 +13,7 @@ I am an **Automation Engineering** student at **FURG** University. I have experi
 Seeking improvement and knowledge in the following areas:  
 - Web Development
 - Network Security
-- Computer Vision
+- Robotic Arm Manipulation
 
 ### Projects 
 - [Save **wx200** Arm Pose](https://github.com/fbotathome/fbot_manipulator/tree/main/fbot_manipulator_tools/fbot_manipulator_tools)
